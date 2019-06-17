@@ -1,0 +1,19 @@
+{
+  "name": "debug-mock",
+  "version": "1.0.0",
+  "description": "Mock 'debug' module for browser bundles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petermikitsh/debug-shim.git"
+  },
+  "author": "Peter Mikitsh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/petermikitsh/debug-shim/issues"
+  },
+  "homepage": "https://github.com/petermikitsh/debug-shim#readme"
+}
